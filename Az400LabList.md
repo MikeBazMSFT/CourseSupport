@@ -1,12 +1,16 @@
+# Introduction
+
+This is a list of labs in the Microsoft Official Curriculum AZ-400 course, as titled in the lab source.  The lab source names don't match the names in the MOC material in all cases, but the names should be able to be clearly mapped easily enough.
+
 # AZ-400T01  
  
-* M01: Version Controlling with Git: [https://www.azuredevopslabs.com/labs/azuredevops/git/ ][1] 
-* M02: Code Review with Pull Requests: [https://www.azuredevopslabs.com/labs/azuredevops/git/ ][1] 
-* M03: Integrate Jenkins with Azure Pipelines: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/ ][2] 
-* M03: Integrate External Source Control with Azure Pipelines: [https://www.azuredevopslabs.com/labs/azuredevops/github-integration/ ][3] 
-* M03: Deploying a Multi-Container Application: [https://www.azuredevopslabs.com/labs/vstsextend/kubernetes/ ][4] 
-* M04: SonarCloud: [https://www.azuredevopslabs.com/labs/vstsextend/sonarcloud/ ][5] 
-* M04: WhiteSource: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/ ][6]   
+* M01: Version Controlling with Git in Visual Studio Code and Azure DevOps: [https://www.azuredevopslabs.com/labs/azuredevops/git/ ][1] 
+* M02: Working with Pull Requests in Visual Studio Code and Azure DevOps: [https://azuredevopslabs.com/labs/azuredevops/pullrequests/][28] 
+* M03: Configuring a CD pipeline for your Jenkins CI: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/ ][2] 
+* M03: Integrate Your GitHub Projects With Azure Pipelines: [https://www.azuredevopslabs.com/labs/azuredevops/github-integration/ ][3] 
+* M03: Deploying a multi-container application to Azure Kubernetes Services: [https://www.azuredevopslabs.com/labs/vstsextend/kubernetes/ ][4] 
+* M04: Driving continuous quality of your code with SonarCloud: [https://www.azuredevopslabs.com/labs/vstsextend/sonarcloud/ ][5] 
+* M04: Managing Open-source security and license with WhiteSource: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/ ][6]   
     
 # AZ-400T02  
  
@@ -56,6 +60,7 @@
 * M03: Integrating Azure Repos and Azure Pipelines with Eclipse: [https://www.azuredevopslabs.com/labs/vstsextend/eclipse/ ][27]   
   
 [1]: https://www.azuredevopslabs.com/labs/azuredevops/git/
+[28]: https://azuredevopslabs.com/labs/azuredevops/pullrequests/
 [2]: https://www.azuredevopslabs.com/labs/vstsextend/jenkins/
 [3]: https://www.azuredevopslabs.com/labs/azuredevops/github-integration/
 [4]: https://www.azuredevopslabs.com/labs/vstsextend/kubernetes/
