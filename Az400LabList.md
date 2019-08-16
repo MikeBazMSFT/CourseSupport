@@ -6,19 +6,19 @@ This is a list of labs in the Microsoft Official Curriculum AZ-400 course, as ti
  
 * M01: Version Controlling with Git in Visual Studio Code and Azure DevOps: [https://www.azuredevopslabs.com/labs/azuredevops/git/ ][1] 
 * M02: Working with Pull Requests in Visual Studio Code and Azure DevOps: [https://azuredevopslabs.com/labs/azuredevops/pullrequests/][28] 
-* M03: Configuring a CD pipeline for your Jenkins CI: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/ ][2] 
+* M03: Configuring a CD pipeline for your Jenkins CI: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/ ][2] (also in T02-M01)
 * M03: Integrate Your GitHub Projects With Azure Pipelines: [https://www.azuredevopslabs.com/labs/azuredevops/github-integration/ ][3] 
 * M03: Deploying a multi-container application to Azure Kubernetes Services: [https://www.azuredevopslabs.com/labs/vstsextend/kubernetes/ ][4] 
-* M04: Driving continuous quality of your code with SonarCloud: [https://www.azuredevopslabs.com/labs/vstsextend/sonarcloud/ ][5] 
-* M04: Managing Open-source security and license with WhiteSource: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/ ][6]   
+* M04: Driving continuous quality of your code with SonarCloud: [https://www.azuredevopslabs.com/labs/vstsextend/sonarcloud/ ][5] (some overlap with a lab in T02-M02)
+* M04: Managing Open-source security and license with WhiteSource: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/ ][6] (also in T02-M02)
     
-# AZ-400T02  
+# AZ-400T02
  
 * M01: Enabling Continuous Integration with Azure Pipelines: [https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/ ][7] 
-* M01: Creating a Jenkins Build Job and Triggering Continuous Integration: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/ ][2] 
-* M02: Managing Technical Debt with Azure DevOps and SonarCloud: [https://www.azuredevopslabs.com/labs/azuredevops/sonarcloud/ ][8] 
-* M02: Checking Vulnerabilities using WhiteSource Bolt and Azure DevOps: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/ ][6] 
-* M03: Existing .NET Applications with Azure and Docker Images: [https://www.azuredevopslabs.com/labs/vstsextend/aspnetmodernize/ ][9]   
+* M01: Configuring a CD pipeline for your Jenkins CI: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/ ][2] (also in T01-M02)
+* M02: Managing Technical Debt with Azure DevOps and SonarCloud: [https://www.azuredevopslabs.com/labs/azuredevops/sonarcloud/ ][8]  (some overlap with a lab in T01-M04)
+* M02: Managing Open-source security and license with WhiteSource: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/ ][6] (also in T01-M04)
+* M03: Deploy existing .NET apps as Windows containers (Modernizing .NET apps [https://www.azuredevopslabs.com/labs/vstsextend/aspnetmodernize/ ][9]   
 
 # AZ-400T03  
  
