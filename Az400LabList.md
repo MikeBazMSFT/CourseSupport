@@ -1,6 +1,12 @@
+## Last update: August 16, 2019
+
 # Introduction
 
 This is a list of labs in the Microsoft Official Curriculum AZ-400 course, as titled in the lab source.  The lab source names don't match the names in the MOC material in all cases, but the names should be able to be clearly mapped easily enough.
+
+"(inline)" indicates the lab is not external to the lab course.
+
+Duplication and near-duplication has been indicated where appropriate.
 
 # AZ-400T01  
  
@@ -25,16 +31,16 @@ This is a list of labs in the Microsoft Official Curriculum AZ-400 course, as ti
 * M01: Building a Release Strategy: (inline planning exercise)  
 * M02: Automating your infrastructure deployments in the Cloud with Terraform and Azure Pipelines: [https://azuredevopslabs.com/labs/vstsextend/terraform/ ][10] 
 * M02: Setting up secrets in the pipeline with Azure Key Vault: (inline)  
-* M02: Setting up and Running Load Tests: [https://azuredevopslabs.com/labs/azuredevops/load/ ][11] 
-* M02: Setting up and Running Functional Tests: [https://www.azuredevopslabs.com/labs/vstsextend/Selenium/ ][12] 
-* M02: Using Azure Monitor as a Release Gate: [https://azuredevopslabs.com/labs/vstsextend/releasegates/ ][13] 
+* M02: Web Application Load and Performance Testing: [https://azuredevopslabs.com/labs/azuredevops/load/ ][11] 
+* M02: Automating Selenium Tests in Azure Pipelines: [https://www.azuredevopslabs.com/labs/vstsextend/Selenium/ ][12] 
+* M02: Controlling Deployments using Release Gates: [https://azuredevopslabs.com/labs/vstsextend/releasegates/ ][13] 
 * M02: Creating a Release Dashboard: (inline)  
 * M03: Blue-Green Deployments: (inline)  
 * M03: Traffic Manager: (inline)    
 
 # AZ-400T04
  
-* M01: Updating Packages: [https://www.azuredevopslabs.com/labs/azuredevops/packagemanagement/ ][14]   
+* M01: Package Management with Azure Artifacts: [https://www.azuredevopslabs.com/labs/azuredevops/packagemanagement/ ][14]   
 
 # AZ-400T05  
  
@@ -50,13 +56,13 @@ This is a list of labs in the Microsoft Official Curriculum AZ-400 course, as ti
 
 # AZ-400T06
  
-* M01: Integration between Azure DevOps and Teams: [https://azuredevopslabs.com/labs/vsts/teams/ ][24] 
-* M02: Feature Flags: [https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/ ][25]   
+* M01: Microsoft Teams with Azure DevOps Services (Collaborate, Communicate and Celebrate): [https://azuredevopslabs.com/labs/vsts/teams/ ][24] 
+* M02: Feature Flag Management with LaunchDarkly and AzureDevOps: [https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/ ][25]    (also in T07-M02)
 
 # AZ-400T07
  
 * M01: Agile Planning and Portfolio Management with Azure Boards: [https://www.azuredevopslabs.com/labs/azuredevops/agile/ ][26] 
-* M02: Feature Flag Management with LaunchDarkly and AzureDevOps: [https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/ ][25] 
+* M02: Feature Flag Management with LaunchDarkly and AzureDevOps: [https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/ ][25] (also in T06-M02)
 * M03: Integrating Azure Repos and Azure Pipelines with Eclipse: [https://www.azuredevopslabs.com/labs/vstsextend/eclipse/ ][27]   
   
 [1]: https://www.azuredevopslabs.com/labs/azuredevops/git/
