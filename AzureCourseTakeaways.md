@@ -18,8 +18,8 @@ This is a set of information I discuss with classes as part of my "end of class"
 # Learning Resources
 
 * [Skillpipe e-Book access](https://www.skillpipe.com) - available "forever" and updated on a regular basis for the life of the course
-* Most Azure course [labs](https://github.com/MicrosoftLearning) are on GitHub; the Azure DevOps course for the most part uses the [Azure DevOps Labs](https://www.azuredevopslabs.com/) site
-* [Microsoft Learn](https://github.com/MicrosoftLearning) is our hosted, bite-sized ("microlearning"), lab-inclusive self-paced training environment
+* Most Azure course [labs](https://github.com/MicrosoftLearning) are on GitHub; the Azure DevOps course for the most part uses the [Azure DevOps Labs](https://www.azuredevopslabs.com/) site as referenced in my [lab TOC](https://aka.ms/az400labs) for that course
+* [Microsoft Learn](https://www.microsoft.com/learn) is our hosted, bite-sized ("microlearning"), lab-inclusive self-paced training environment
 * [Microsoft Hands-on Labs](https://www.microsoft.com/handsonlabs) is a collection of hosted VMs for lots of different lab scenarios, both Azure and not
 * [Azure Courses on EdX](https://www.edx.org/learn/azure) is another source of self-paced online learning, but is closer to traditional timing than the shorter-form content on Microsoft Learn
 * Microsoft has sponsored several courses on Pluralsight
