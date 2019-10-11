@@ -1,6 +1,6 @@
 # Intro
 
-This is a set of information I discuss with classes when presenting Azure Microsoft Official Curriculum.  These are personal opinions and are not the official position of Microsoft.  I update this document on occasion based on new information, class feedback, etc. - you can use the revision number at the top of the Gist page to track changes over time.
+This is a set of information I discuss with classes as part of my "end of class" summary when I am presenting Azure Microsoft Official Curriculum.  These are personal opinions and are not the official position of Microsoft.  I update this document on occasion based on new information, class feedback, etc. - you can use the revision number at the top of the Gist page to track changes over time.
 
 # Exam Tips
 
