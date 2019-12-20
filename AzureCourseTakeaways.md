@@ -38,4 +38,4 @@ This is a set of information I discuss with classes as part of my "end of class"
   * [The Azure Podcast](http://azpodcast.azurewebsites.net)
 * [Azure Charts](https://azurecharts.com/)
 * [Azure Deprecation Twitter Feed](https://twitter.com/AzureEndOfLife)
-* [Stay current with Microsoft Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-readiness-guide/staying-current)
+* [Stay current with Microsoft Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/staying-current?tabs=TopResources)
