@@ -36,6 +36,6 @@ This is a set of information I discuss with classes as part of my "end of class"
 * Multiple Podcasts
   * [Azure Friday](https://azure.Microsoft.com/en-us/resources/videos/azure-friday)
   * [The Azure Podcast](http://azpodcast.azurewebsites.net)
-* [Azure Charts](https://azurecharts.com/)
+* [Azure Charts](https://aka.ms/azcharts/)
 * [Azure Deprecation Twitter Feed](https://twitter.com/AzureEndOfLife)
 * [Stay current with Microsoft Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/staying-current?tabs=TopResources)
