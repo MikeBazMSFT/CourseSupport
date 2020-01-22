@@ -26,7 +26,8 @@ This is a set of information I discuss with classes as part of my "end of class"
   * [Microsoft Azure Developer](https://www.pluralsight.com/role-iq/microsoft-azure-developer?aid=7010a000001xDURAA2)
   * [Microsoft Azure Solution Architect](https://www.pluralsight.com/role-iq/microsoft-azure-solution-architect?aid=7010a000001xDURAA2)
   * [Microsoft Azure Administrator](https://www.pluralsight.com/role-iq/microsoft-azure-administrator?aid=7010a000001xDURAA2)
-* A summary presentation of all [Microsoft Training and Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) is available as well
+* A summary presentation of all [Microsoft Training and Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) is available
+* A [training and certification poster](https://aka.ms/TrainCertPoster) is out there to help you see the big picture
 * The [Azure Learning Pathways](https://www.microsoft.com/en-au/azurelearningpathways) can help you plan targeted learning
 
 # Keeping Up!
