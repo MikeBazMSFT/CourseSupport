@@ -24,7 +24,7 @@ Duplication and near-duplication has been indicated where appropriate.
 * M01: Configuring a CD pipeline for your Jenkins CI: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/ ][2] (also in T01-M03)
 * M02: Managing Technical Debt with Azure DevOps and SonarCloud: [https://www.azuredevopslabs.com/labs/azuredevops/sonarcloud/ ][8]  (some overlap with a lab in T01-M04)
 * M02: Managing Open-source security and license with WhiteSource: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/ ][6] (also in T01-M04)
-* M03: Deploy existing .NET apps as Windows containers (Modernizing .NET apps) [https://www.azuredevopslabs.com/labs/vstsextend/aspnetmodernize/ ][9]   
+* M03: Deploy existing .NET apps as Windows containers (Modernizing .NET apps): [https://www.azuredevopslabs.com/labs/vstsextend/aspnetmodernize/ ][9]   
 
 # AZ-400T03  
  
