@@ -12,18 +12,18 @@ Duplication and near-duplication has been indicated where appropriate.
  
 * M01: Version Controlling with Git in Visual Studio Code and Azure DevOps: [https://www.azuredevopslabs.com/labs/azuredevops/git/][1] 
 * M02: Working with Pull Requests in Visual Studio Code and Azure DevOps: [https://azuredevopslabs.com/labs/azuredevops/pullrequests/][28] 
-* M03: Configuring a CD pipeline for your Jenkins CI: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/][2] (also in T02-M01)
+* M03: Configuring a CD pipeline for your Jenkins CI _(also in T02-M01)_: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/][2]
 * M03: Integrate Your GitHub Projects With Azure Pipelines: [https://www.azuredevopslabs.com/labs/azuredevops/github-integration/][3] 
 * M03: Deploying a multi-container application to Azure Kubernetes Services: [https://www.azuredevopslabs.com/labs/vstsextend/kubernetes/][4] 
-* M04: Driving continuous quality of your code with SonarCloud: [https://www.azuredevopslabs.com/labs/vstsextend/sonarcloud/][5] _(some overlap with a lab in T02-M02)_
-* M04: Managing Open-source security and license with WhiteSource: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/][6] _(also in T02-M02)_
+* M04: Driving continuous quality of your code with SonarCloud _(some overlap with a lab in T02-M02)_: [https://www.azuredevopslabs.com/labs/vstsextend/sonarcloud/][5]
+* M04: Managing Open-source security and license with WhiteSource _(also in T02-M02)_: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/][6]
     
 # AZ-400T02
  
 * M01: Enabling Continuous Integration with Azure Pipelines: [https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/][7] 
-* M01: Configuring a CD pipeline for your Jenkins CI: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/][2] _(also in T01-M03)_
-* M02: Managing Technical Debt with Azure DevOps and SonarCloud: [https://www.azuredevopslabs.com/labs/azuredevops/sonarcloud/][8]  _(some overlap with a lab in T01-M04)_
-* M02: Managing Open-source security and license with WhiteSource: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/][6] _(also in T01-M04)_
+* M01: Configuring a CD pipeline for your Jenkins CI _(also in T01-M03)_: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/][2]
+* M02: Managing Technical Debt with Azure DevOps and SonarCloud  _(some overlap with a lab in T01-M04)_: [https://www.azuredevopslabs.com/labs/azuredevops/sonarcloud/][8]
+* M02: Managing Open-source security and license with WhiteSource _(also in T01-M04)_: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/][6]
 * M03: Deploy existing .NET apps as Windows containers (Modernizing .NET apps): [https://www.azuredevopslabs.com/labs/vstsextend/aspnetmodernize/][9]   
 
 # AZ-400T03  
@@ -57,12 +57,12 @@ Duplication and near-duplication has been indicated where appropriate.
 # AZ-400T06
  
 * M01: Microsoft Teams with Azure DevOps Services (Collaborate, Communicate and Celebrate): [https://azuredevopslabs.com/labs/vsts/teams/][24] 
-* M02: Feature Flag Management with LaunchDarkly and AzureDevOps: [https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/][25]    _(also in T07-M02)_
+* M02: Feature Flag Management with LaunchDarkly and AzureDevOps _(also in T07-M02)_: [https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/][25]
 
 # AZ-400T07
  
 * M01: Agile Planning and Portfolio Management with Azure Boards: [https://www.azuredevopslabs.com/labs/azuredevops/agile/][26] 
-* M02: Feature Flag Management with LaunchDarkly and AzureDevOps: [https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/][25] _(also in T06-M02)_
+* M02: Feature Flag Management with LaunchDarkly and AzureDevOps _(also in T06-M02)_: [https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/][25]
 * M03: Integrating Azure Repos and Azure Pipelines with Eclipse: [https://www.azuredevopslabs.com/labs/vstsextend/eclipse/][27]   
   
 [1]: https://www.azuredevopslabs.com/labs/azuredevops/git/
