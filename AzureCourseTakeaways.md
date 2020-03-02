@@ -8,7 +8,7 @@ This is a set of information I discuss with classes as part of my "end of class"
 
 ## Exam Tips
 
-* Generally questions will be some variation on mulitple choice - standard multiple choice, choose one from a dropdown, choose from a list and place in order, etc.  The exception is exams with a practical (lab) component, where you will be expected to not just answer multiple choice varations but also perform tasks in a provided environment.
+* Details on different question types including videos for them are at the top-level [Microsoft Certification Exams](https://www.microsoft.com/en-us/learning/certification-exams.aspx) web site.  There's also a [FAQ](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx) there with a lot of common questions and answers.
 * These are not college entrance exams.  You are not penalized for wrong answers.  Thus, if you don't know an answer, don't leave it blank - guess.
 * The exams are not trying to trick you - don't read too far into the question.
 * Don't second-guess your answers.  Your first feeling is usually right.
