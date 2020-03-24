@@ -33,7 +33,7 @@ Duplication and near-duplication has been indicated where appropriate.
 * M01: Building a Release Strategy: _(inline; planning exercise)_
 * M02: Automating your infrastructure deployments in the Cloud with Terraform and Azure Pipelines: [https://azuredevopslabs.com/labs/vstsextend/terraform/][10]
 * M02: Setting up secrets in the pipeline with Azure Key Vault: _(inline)_
-* M02: Web Application Load and Performance Testing: [https://azuredevopslabs.com/labs/azuredevops/load/][11]
+* M02: <strike>Web Application Load and Performance Testing: [https://azuredevopslabs.com/labs/azuredevops/load/][11]</strike> _(functionality removed from product)_
 * M02: Automating Selenium Tests in Azure Pipelines: [https://www.azuredevopslabs.com/labs/vstsextend/Selenium/][12]
 * M02: Controlling Deployments using Release Gates: [https://azuredevopslabs.com/labs/vstsextend/releasegates/][13]
 * M02: Creating a Release Dashboard: _(inline)_
