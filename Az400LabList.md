@@ -1,6 +1,6 @@
 # AZ-400 Lab List
 
-Last update: February 18, 2020
+Last update: March 26, 2020
 
 ## Introduction
 
@@ -18,14 +18,14 @@ Duplication and near-duplication has been indicated where appropriate.
 * M03: Integrate Your GitHub Projects With Azure Pipelines: [https://www.azuredevopslabs.com/labs/azuredevops/github-integration/][3]
 * M03: Deploying a multi-container application to Azure Kubernetes Services: [https://www.azuredevopslabs.com/labs/vstsextend/kubernetes/][4]
 * M04: Driving continuous quality of your code with SonarCloud _(some overlap with a lab in T02-M02)_: [https://www.azuredevopslabs.com/labs/vstsextend/sonarcloud/][5]
-* M04: Managing Open-source security and license with WhiteSource _(also in T02-M02)_: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/][6]
+* M04: Managing Open-source security and license with WhiteSource _(also in T02-M02; substantial overlap with a lab in T05-M05)_: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/][6]
 
 ## AZ-400T02
 
 * M01: Enabling Continuous Integration with Azure Pipelines: [https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/][7]
 * M01: Configuring a CD pipeline for your Jenkins CI _(also in T01-M03)_: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/][2]
 * M02: Managing Technical Debt with Azure DevOps and SonarCloud  _(some overlap with a lab in T01-M04)_: [https://www.azuredevopslabs.com/labs/azuredevops/sonarcloud/][8]
-* M02: Managing Open-source security and license with WhiteSource _(also in T01-M04)_: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/][6]
+* M02: Managing Open-source security and license with WhiteSource _(also in T01-M04; substantial overlap with a lab in T05-M05)_: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/][6]
 * M03: Deploy existing .NET apps as Windows containers (Modernizing .NET apps): [https://www.azuredevopslabs.com/labs/vstsextend/aspnetmodernize/][9]
 
 ## AZ-400T03  
@@ -54,7 +54,7 @@ Duplication and near-duplication has been indicated where appropriate.
 * M04: Deploy app with Chef on Azure: [http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-DeployappwithChefonAzure.html][20]
 * M04: Deploy app with Puppet on Azure: [http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-DeployappwithPuppetonAzure.html][21]
 * M04: Ansible with Azure: [http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-AnsiblewithAzure.html][22]
-* M05: Implement Security and Compliance in Azure DevOps pipelines: [http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaC-SecurityandComplianceinpipeline.html][23]
+* M05: Implement Security and Compliance in Azure DevOps pipelines _(substantial overlap with a lab in T01-M04 and T02-M05)_: [http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaC-SecurityandComplianceinpipeline.html][23]
 
 ## AZ-400T06
 
