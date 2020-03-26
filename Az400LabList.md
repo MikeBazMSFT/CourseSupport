@@ -54,7 +54,7 @@ Duplication and near-duplication has been indicated where appropriate.
 * M04: Deploy app with Chef on Azure: [http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-DeployappwithChefonAzure.html][20]
 * M04: Deploy app with Puppet on Azure: [http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-DeployappwithPuppetonAzure.html][21]
 * M04: Ansible with Azure: [http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-AnsiblewithAzure.html][22]
-* M05: Implement Security and Compliance in Azure DevOps pipelines _(substantial overlap with a lab in T01-M04 and T02-M05)_: [http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaC-SecurityandComplianceinpipeline.html][23]
+* M05: Implement Security and Compliance in Azure DevOps pipelines _(substantial overlap with a lab in T01-M04 and T02-M02)_: [http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaC-SecurityandComplianceinpipeline.html][23]
 
 ## AZ-400T06
 
