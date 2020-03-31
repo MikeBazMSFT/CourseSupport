@@ -66,7 +66,11 @@ Duplication and near-duplication has been indicated where appropriate.
 * M01: Agile Planning and Portfolio Management with Azure Boards: [https://www.azuredevopslabs.com/labs/azuredevops/agile/][26]
 * M02: Feature Flag Management with LaunchDarkly and AzureDevOps _(also in T06-M02)_: [https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/][25]
 * M03: Integrating Azure Repos and Azure Pipelines with Eclipse: [https://www.azuredevopslabs.com/labs/vstsextend/eclipse/][27]
-  
+
+## Optional
+
+* Azure DevOps Pipelines as Code: [https://aka.ms/adopac][29]
+
 [1]: https://www.azuredevopslabs.com/labs/azuredevops/git/
 [28]: https://azuredevopslabs.com/labs/azuredevops/pullrequests/
 [2]: https://www.azuredevopslabs.com/labs/vstsextend/jenkins/
@@ -95,3 +99,4 @@ Duplication and near-duplication has been indicated where appropriate.
 [25]: https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/
 [26]: https://www.azuredevopslabs.com/labs/azuredevops/agile/
 [27]: https://www.azuredevopslabs.com/labs/vstsextend/eclipse/
+[29]: https://aka.ms/adopac
