@@ -1,6 +1,6 @@
 # AZ-400 Lab List
 
-Last update: March 26, 2020
+Last update: March 31, 2020
 
 ## Introduction
 
