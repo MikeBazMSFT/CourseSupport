@@ -1,10 +1,30 @@
 # Azure Course Take-aways
 
-Last updated: April 2, 2020
+Last updated: April 6, 2020
 
 ## Intro
 
 This is a set of information I discuss with classes as part of my "end of class" summary when I am presenting Azure Microsoft Official Curriculum.  These are personal opinions and are not the official position of Microsoft.  I update this document on occasion based on new information, class feedback, etc. - you can use the update date at the top to tell you the last change and use the GitHub revision history to see what has changed.
+
+## Learning Resources
+
+* The following resources are in the "standard" opening deck for Azure Technical Trainer deliveries:
+  * [Microsoft Certification Overview](https://www.microsoft.com/certification) covers information across Microsoft certifications
+  * [Microsoft Official Curriculum](https://aka.ms/MOC) is the courseware used for deliveries
+  * [Microsoft Learn](https://www.microsoft.com/learn) is our hosted, bite-sized ("microlearning"), lab-inclusive self-paced training environment
+  * The [Azure Architecture Center](https://aka.ms/Architecture) covers different scenarios with recommended design guidance
+  * A [training and certification poster](https://aka.ms/TrainCertPoster) is out there to help you see the big picture
+  * The [Microsoft Docs](https://aka.ms/Docs) is the official documentation site for all Microsoft products
+* [Skillpipe e-Book access](https://www.skillpipe.com) - available "forever" and updated on a regular basis for the life of the course
+* Most Azure course [labs](https://github.com/MicrosoftLearning) are on GitHub; the Azure DevOps course for the most part uses the [Azure DevOps Labs](https://www.azuredevopslabs.com/) site as referenced in my [lab TOC](https://aka.ms/az400labs) for that course
+* [Microsoft Hands-on Labs](https://www.microsoft.com/handsonlabs) is a collection of hosted VMs for lots of different lab scenarios, both Azure and not
+* [Azure Courses on EdX](https://www.edx.org/learn/azure) is another source of self-paced online learning, but is closer to traditional timing than the shorter-form content on Microsoft Learn
+* Microsoft has sponsored several courses on Pluralsight
+  * [Microsoft Azure Developer](https://www.pluralsight.com/role-iq/microsoft-azure-developer?aid=7010a000001xDURAA2)
+  * [Microsoft Azure Solution Architect](https://www.pluralsight.com/role-iq/microsoft-azure-solution-architect?aid=7010a000001xDURAA2)
+  * [Microsoft Azure Administrator](https://www.pluralsight.com/role-iq/microsoft-azure-administrator?aid=7010a000001xDURAA2)
+* A summary presentation of all [Microsoft Training and Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) is available
+* The [Azure Learning Pathways](https://www.microsoft.com/en-au/azurelearningpathways) can help you plan targeted learning
 
 ## Exam Tips
 
@@ -20,21 +40,6 @@ This is a set of information I discuss with classes as part of my "end of class"
   * Skim the questions to see what is being asked, then find the answers in the case study.
 * Any comments you make during the comment period are read by a human being - every single one.  So, if you have a complaint, be clear, concise, and polite in your comment, so it can be acted upon.
 * Remember that exams are "pass/fail," meaning although you get a numeric score to help you understand your weaknesses, nobody will ever see the score but you, so don't get hung up too much on it.
-
-## Learning Resources
-
-* [Skillpipe e-Book access](https://www.skillpipe.com) - available "forever" and updated on a regular basis for the life of the course
-* Most Azure course [labs](https://github.com/MicrosoftLearning) are on GitHub; the Azure DevOps course for the most part uses the [Azure DevOps Labs](https://www.azuredevopslabs.com/) site as referenced in my [lab TOC](https://aka.ms/az400labs) for that course
-* [Microsoft Learn](https://www.microsoft.com/learn) is our hosted, bite-sized ("microlearning"), lab-inclusive self-paced training environment
-* [Microsoft Hands-on Labs](https://www.microsoft.com/handsonlabs) is a collection of hosted VMs for lots of different lab scenarios, both Azure and not
-* [Azure Courses on EdX](https://www.edx.org/learn/azure) is another source of self-paced online learning, but is closer to traditional timing than the shorter-form content on Microsoft Learn
-* Microsoft has sponsored several courses on Pluralsight
-  * [Microsoft Azure Developer](https://www.pluralsight.com/role-iq/microsoft-azure-developer?aid=7010a000001xDURAA2)
-  * [Microsoft Azure Solution Architect](https://www.pluralsight.com/role-iq/microsoft-azure-solution-architect?aid=7010a000001xDURAA2)
-  * [Microsoft Azure Administrator](https://www.pluralsight.com/role-iq/microsoft-azure-administrator?aid=7010a000001xDURAA2)
-* A summary presentation of all [Microsoft Training and Certifications](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ) is available
-* A [training and certification poster](https://aka.ms/TrainCertPoster) is out there to help you see the big picture
-* The [Azure Learning Pathways](https://www.microsoft.com/en-au/azurelearningpathways) can help you plan targeted learning
 
 ## Keeping Up
 
