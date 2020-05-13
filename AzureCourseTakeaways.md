@@ -1,6 +1,6 @@
 # Azure Course Take-aways
 
-Last updated: April 27, 2020
+Last updated: May 13, 2020
 
 ## Intro
 
@@ -24,7 +24,6 @@ This is a set of information I discuss with classes as part of my "end of class"
   * [Microsoft Azure Solution Architect](https://aka.ms/PluralsightAzureArchitect)
   * [Microsoft Azure Administrator](https://aka.ms/PluralsightAzureAdministrator)
 * A summary presentation of all [Microsoft Training and Certifications](https://aka.ms/TrainCertSummary) is available.
-* The [Azure Learning Pathways](https://aka.ms/AzLearningPathways) can help you plan targeted learning.
 
 ## Study Guides
 
@@ -34,6 +33,7 @@ This is a set of information I discuss with classes as part of my "end of class"
 * Cloud Advocate Thomas Maurer has put together study guides for several exams:
   * [AZ-104](https://aka.ms/TMAz104)
   * [AZ-204](https://aka.ms/TMAz204)
+  * [AZ-220](https://aka.ms/TMAz220)
   * [AZ-303](https://aka.ms/TMAz303)
   * [AZ-304](https://aka.ms/TMAz304)
   * [AZ-900](https://aka.ms/TMAz900)
