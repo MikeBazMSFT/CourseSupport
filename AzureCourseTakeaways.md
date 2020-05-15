@@ -41,6 +41,7 @@ This is a set of information I discuss with classes as part of my "end of class"
 ## Exam Tips
 
 * Details on different question types including videos for them are at the top-level [Microsoft Certification Exams](https://aka.ms/QuestionTypes) web site.  There's also a [FAQ](https://aka.ms/CertificationFAQ) there with a lot of common questions and answers.
+* Exams are "closed book."  In the case of an exam with a practical component, you may have inline help in the CLI and the like, but that's it.  You will not have general web access, Skillpipe access, and so on.
 * A [blog post](https://aka.ms/homeexam) about the home testing experience was posted by one of Microsoft's Cloud Advocates, Thomas Maurer.
 * In most cases, you will receive exam results immediately at the end of the exam, after the comment period.  For beta exams and some exams that have practical components, there will be a delay - beta exams will be scored after the beta period ends, while practical exams may be delayed by a couple of hours.  Delayed results will be sent to the e-mail address associated with your Microsoft Learning profile.
 * These are not college entrance exams.  You are not penalized for wrong answers.  Thus, if you don't know an answer, don't leave it blank - guess.
