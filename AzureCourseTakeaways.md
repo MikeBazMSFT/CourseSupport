@@ -1,6 +1,6 @@
 # Azure Course Take-aways
 
-Last updated: May 13, 2020
+Last updated: May 28, 2020
 
 ## Intro
 
@@ -24,18 +24,22 @@ This is a set of information I discuss with classes as part of my "end of class"
   * [Microsoft Azure Solution Architect](https://aka.ms/PluralsightAzureArchitect)
   * [Microsoft Azure Administrator](https://aka.ms/PluralsightAzureAdministrator)
 * A summary presentation of all [Microsoft Training and Certifications](https://aka.ms/TrainCertSummary) is available.
+* In many classes, especially the developer-related ones, there's been a lot of interest in learning Python.  Christopher Harrison and Susan Ibach have done a set of great tutorial videos:
+  * [Learn To Program with Python](https://aka.ms/IntroToProgramming) (14 videos)
+  * [Python for Beginners](https://aka.ms/PfB) (44 videos!)
 
 ## Study Guides
 
-* My team has created study materials:
+* My team has created study materials for some courses:
   * [AZ-900](https://aka.ms/attaz900guide)
 
-* Cloud Advocate Thomas Maurer has put together study guides for several exams:
+* Cloud Advocate Thomas Maurer has put together study guides for many exams:
   * [AZ-104](https://aka.ms/TMAz104)
   * [AZ-204](https://aka.ms/TMAz204)
   * [AZ-220](https://aka.ms/TMAz220)
   * [AZ-303](https://aka.ms/TMAz303)
   * [AZ-304](https://aka.ms/TMAz304)
+  * [AZ-500](https://aka.ms/TMAz500)
   * [AZ-900](https://aka.ms/TMAz900)
 
 ## Exam Tips
