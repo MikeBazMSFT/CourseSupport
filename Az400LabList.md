@@ -27,10 +27,10 @@ Many labs leverage the Azure DevOps Demo environment that can be configured thro
 * M06: Integrating Azure Key Vault with Azure DevOps: [https://www.azuredevopslabs.com/labs/vstsextend/azurekeyvault/][31]
 * M07: Managing Technical Debt with Azure DevOps and SonarCloud: [https://www.azuredevopslabs.com/labs/azuredevops/sonarcloud/][5]
 * M08: Modernizing Your Existing ASP.NET Apps with Azure: [https://www.azuredevopslabs.com/labs/vstsextend/aspnetmodernize/][9]
-* M09: Manage Opern Source Security and License _(sic)_ with WhiteSource: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/][6]
+* M09: Managing Open-Source Security and License _(sic)_ with WhiteSource: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/][6]
 * M10: _(no lab)_
 * M11: Configuring CI/CD Pipelines as Code with YAML in Azure DevOps: [https://www.azuredevopslabs.com/labs/azuredevops/yaml/][32]
-* M11: Setting Up Secrets in the Pipeline with Azure Key Vault: _(inline)_
+* M11: Setting Up Secrets in the Pipeline with Azure Key Vault: _`(inline)`_
 * M12: Feature Flag Management with LaunchDarkly and Azure DevOps: [https://www.azuredevopslabs.com/labs/vstsextend/launchdarkly/][25]
 * M13: Monitoring Application Performance with Application Insights: [https://azuredevopslabs.com/labs/azuredevops/appinsights/][33]
 * M14: _(no lab)_
@@ -144,5 +144,5 @@ Many labs leverage the Azure DevOps Demo environment that can be configured thro
 [35]: https://azuredevopslabs.com/labs/vstsextend/kubernetes/#access-the-kubernetes-web-dashboard-in-azure-kubernetes-service-aks
 [36]: http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-DeployappwithChefonAzure.html
 [37]: http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-DeployappwithPuppetonAzure.html
-[38]: http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-AnsiblewithAzure.htm
+[38]: http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-AnsiblewithAzure.html
 [39]: http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaC-SecurityandComplianceinpipeline.html
