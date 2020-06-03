@@ -17,15 +17,15 @@ Many labs leverage the Azure DevOps Demo environment that can be configured thro
 ## Current version
 
 * M01: Agile Planning and Portfolio Management with Azure Boards Agile Planning and Portfolio Management with Azure Boards: [https://www.azuredevopslabs.com/labs/azuredevops/agile/][26]
-* M02: Version Controlling with Git in Azure Repos: [https://www.azuredevopslabs.com/labs/azuredevops/git/][1] (Exercises 1-5)
-* M03: Version Controlling with Git in Azure Repos: [https://www.azuredevopslabs.com/labs/azuredevops/git/][1] (Exercises 6-7)
-* M04: Package Management with Azure Artifacts: : [https://www.azuredevopslabs.com/labs/azuredevops/packagemanagement/][14]
+* M02: Version Controlling with Git in Azure Repos (Exercises 1-5): [https://www.azuredevopslabs.com/labs/azuredevops/git/][1]
+* M03: Version Controlling with Git in Azure Repos (Exercises 6-7): [https://www.azuredevopslabs.com/labs/azuredevops/git/][1]
+* M04: Package Management with Azure Artifacts: [https://www.azuredevopslabs.com/labs/azuredevops/packagemanagement/][14]
 * M05: Enabling Continuous Integration with Azure Pipelines: [https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/][7]
 * M05: Integrate Your GitHub with Azure Pipelines: [https://www.azuredevopslabs.com/labs/azuredevops/github-integration/][3]
 * M05: Configuring a CD pipeline for your Jenkins CI: [https://www.azuredevopslabs.com/labs/vstsextend/jenkins/][2]
 * M05: Deploying a multi-container application to Azure Kubernetes Services: [https://www.azuredevopslabs.com/labs/vstsextend/kubernetes/][4]
 * M06: Integrating Azure Key Vault with Azure DevOps: [https://www.azuredevopslabs.com/labs/vstsextend/azurekeyvault/][31]
-* M07: Managing Technical Debt with Azure DevOps and SonarCloud: [https://www.azuredevopslabs.com/labs/azuredevops/sonarcloud/][28]
+* M07: Managing Technical Debt with Azure DevOps and SonarCloud: [https://www.azuredevopslabs.com/labs/azuredevops/sonarcloud/][5]
 * M08: Modernizing Your Existing ASP.NET Apps with Azure: [https://www.azuredevopslabs.com/labs/vstsextend/aspnetmodernize/][9]
 * M09: Manage Opern Source Security and License _(sic)_ with WhiteSource: [https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/][6]
 * M10: _(no lab)_
