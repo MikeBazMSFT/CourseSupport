@@ -10,7 +10,7 @@ _`(inline)`_ indicates the lab is not external to the lab course.
 
 This list was substantially updated in June, 2020 to reflect the new "one book" version of AZ-400.  The original multi-book version is included after in case you took the course in that format and are looking for that version of the lab list.
 
-Duplication and near-duplication has been indicated where appropriate.
+Duplication and near-duplication has been indicated where appropriate.  This is only an issue in the multi-book version of the course.
 
 Many labs leverage the Azure DevOps Demo environment that can be configured through the [DevOps Demo Generator][30]
 
