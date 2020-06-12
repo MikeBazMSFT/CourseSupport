@@ -1,6 +1,6 @@
 # Azure Course Take-aways
 
-Last updated: May 28, 2020
+Last updated: June 12, 2020
 
 ## Intro
 
@@ -27,6 +27,7 @@ This is a set of information I discuss with classes as part of my "end of class"
 * In many classes, especially the developer-related ones, there's been a lot of interest in learning Python.  Christopher Harrison and Susan Ibach have done a set of great tutorial videos:
   * [Learn To Program with Python](https://aka.ms/IntroToProgramming) (14 videos)
   * [Python for Beginners](https://aka.ms/PfB) (44 videos!)
+* The role-based classes generally require an entry level of knowledge around networking such as IP addressing.  Microsoft Learn has a [Fundamental of computer networking](https://aka.ms/NetworkFundamentals) module that can help with that.
 
 ## Study Guides
 
