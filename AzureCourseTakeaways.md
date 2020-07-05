@@ -1,6 +1,6 @@
 # Azure Course Take-aways
 
-Last updated: June 12, 2020
+Last updated: July 5, 2020
 
 ## Intro
 
@@ -31,9 +31,6 @@ This is a set of information I discuss with classes as part of my "end of class"
 
 ## Study Guides
 
-* My team has created study materials for some courses:
-  * [AZ-900](https://aka.ms/attaz900guide)
-
 * Cloud Advocate Thomas Maurer has put together study guides for many exams:
   * [AZ-104](https://aka.ms/TMAz104)
   * [AZ-204](https://aka.ms/TMAz204)
@@ -42,6 +39,12 @@ This is a set of information I discuss with classes as part of my "end of class"
   * [AZ-304](https://aka.ms/TMAz304)
   * [AZ-500](https://aka.ms/TMAz500)
   * [AZ-900](https://aka.ms/TMAz900)
+
+* Other Study Guides:
+  * [AZ-900](https://aka.ms/attaz900guide) by the ATT team
+  * [AZ-104](https://charbelnemnom.com/2020/06/passed-az-104-exam-microsoft-certified-azure-administrator-associate/) by Charbel Nemnom, MVP/MCT
+
+
 
 ## Exam Tips
 
