@@ -1,6 +1,6 @@
 # Azure Course Take-aways
 
-Last updated: July 5, 2020
+Last updated: August 10, 2020
 
 ## Intro
 
@@ -43,8 +43,7 @@ This is a set of information I discuss with classes as part of my "end of class"
 * Other Study Guides:
   * [AZ-900](https://aka.ms/attaz900guide) by the ATT team
   * [AZ-104](https://charbelnemnom.com/2020/06/passed-az-104-exam-microsoft-certified-azure-administrator-associate/) by Charbel Nemnom, MVP/MCT
-
-
+  * [DP-900](https://gregorsuttie.com/2020/06/09/dp-900-microsoft-azure-data-fundamentals-exam-study-guide/) by Gregor Suttie, MVP
 
 ## Exam Tips
 
@@ -65,11 +64,12 @@ This is a set of information I discuss with classes as part of my "end of class"
 
 ## Keeping Up
 
+* [Azure Weekly](https://aka.ms/AzureWeekly) - This is what I use as my primary resource for keeping up with what's going on with Azure!
 * [Stay current with Microsoft Azure](https://aka.ms/StayCurrentWithAzure)
-* [Azure Weekly](https://aka.ms/AzureWeekly)
 * [Azure Announcements (Blog)](https://aka.ms/AzAnnouncements)
 * Multiple Podcasts
   * [Azure Friday](https://aka.ms/AzureFridayPodcast)
   * [The Azure Podcast](https://aka.ms/TheAzurePodcast)
+  * [The Azure Security Podcast](https://aka.ms/TheAzureSecurityPodcast)
 * [Azure Charts](https://aka.ms/ACharts/)
 * [Azure Deprecation Twitter Feed](https://aka.ms/AzureEOL)
