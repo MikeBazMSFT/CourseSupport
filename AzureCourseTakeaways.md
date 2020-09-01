@@ -1,6 +1,6 @@
 # Azure Course Take-aways
 
-Last updated: August 10, 2020
+Last updated: September 1, 2020
 
 ## Intro
 
@@ -11,7 +11,7 @@ This is a set of information I discuss with classes as part of my "end of class"
 * The following resources are in the "standard" opening deck for Azure Technical Trainer deliveries:
   * [Microsoft Certification Overview](https://www.microsoft.com/certification) covers information across Microsoft certifications.
   * [Microsoft Official Curriculum](https://aka.ms/MOC) is the courseware used for deliveries.
-  * [Microsoft Learn](https://www.microsoft.com/learn) is our hosted, bite-sized ("microlearning"), lab-inclusive self-paced training environment.
+  * [Microsoft Learn](https://www.microsoft.com/learn) is our hosted, bite-sized ("microlearning"), lab-inclusive self-paced training environment.  Exam pages for individual exams include links to the appropriate Microsoft Learn content.
   * The [Azure Architecture Center](https://aka.ms/Architecture) covers different scenarios with recommended design guidance.
   * A [training and certification poster](https://aka.ms/TrainCertPoster) is out there to help you see the big picture.
   * The [Microsoft Docs](https://aka.ms/Docs) is the official documentation site for all Microsoft products.
@@ -27,7 +27,7 @@ This is a set of information I discuss with classes as part of my "end of class"
 * In many classes, especially the developer-related ones, there's been a lot of interest in learning Python.  Christopher Harrison and Susan Ibach have done a set of great tutorial videos:
   * [Learn To Program with Python](https://aka.ms/IntroToProgramming) (14 videos)
   * [Python for Beginners](https://aka.ms/PfB) (44 videos!)
-* The role-based classes generally require an entry level of knowledge around networking such as IP addressing.  Microsoft Learn has a [Fundamental of computer networking](https://aka.ms/NetworkFundamentals) module that can help with that.
+* The role-based classes generally require an entry level of knowledge around networking such as IP addressing.  Microsoft Learn has a [Fundamentals of computer networking](https://aka.ms/NetworkFundamentals) module that can help with that.
 
 ## Study Guides
 
