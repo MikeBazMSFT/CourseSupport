@@ -42,6 +42,7 @@ This is a set of information I discuss with classes as part of my "end of class"
 
 * Other Study Guides:
   * [AZ-900](https://aka.ms/attaz900guide) by the ATT team
+  * [AZ-900](https://marczak.io/az-900/) by Adam Marczak, MVP
   * [AZ-104](https://charbelnemnom.com/2020/06/passed-az-104-exam-microsoft-certified-azure-administrator-associate/) by Charbel Nemnom, MVP/MCT
   * [DP-900](https://gregorsuttie.com/2020/06/09/dp-900-microsoft-azure-data-fundamentals-exam-study-guide/) by Gregor Suttie, MVP
 
