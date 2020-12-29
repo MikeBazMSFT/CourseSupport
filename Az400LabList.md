@@ -1,6 +1,10 @@
 # AZ-400 Lab List
 
-Last update: June 3, 2020
+Last update: December 29, 2020
+
+## IMPORTANT
+
+This list is now historical.  The current labs are now at [https://aka.ms/az400labs][40].
 
 ## Introduction
 
@@ -146,3 +150,4 @@ Many labs leverage the Azure DevOps Demo environment that can be configured thro
 [37]: http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-DeployappwithPuppetonAzure.html
 [38]: http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-AnsiblewithAzure.html
 [39]: http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaC-SecurityandComplianceinpipeline.html
+[40]: https://aka.ms/az400labs

@@ -16,7 +16,7 @@ This is a set of information I discuss with classes as part of my "end of class"
   * A [training and certification poster](https://aka.ms/TrainCertPoster) is out there to help you see the big picture.
   * The [Microsoft Docs](https://aka.ms/Docs) is the official documentation site for all Microsoft products.
 * [Skillpipe e-Book access](https://www.skillpipe.com) - available "forever" and updated on a regular basis for the life of the course.
-* Most Azure course [labs](https://aka.ms/MicrosoftLearningGitHub) are on GitHub; the Azure DevOps course for the most part uses the [Azure DevOps Labs](https://aka.ms/ADOLabs/) site as referenced in my [lab TOC](https://aka.ms/az400labs) for that course.
+* Most Azure course [labs](https://aka.ms/MicrosoftLearningGitHub) are on GitHub.
 * [Microsoft Hands-on Labs](https://aka.ms/MicrosoftHOL) is a collection of hosted VMs for lots of different lab scenarios, both Azure and not.
 * [Azure Courses on EdX](https://aka.ms/AzureEdX) is another source of self-paced online learning, but is closer to traditional timing than the shorter-form content on Microsoft Learn.
 * Microsoft has sponsored several courses on Pluralsight
