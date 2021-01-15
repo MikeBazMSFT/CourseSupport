@@ -1,6 +1,6 @@
 # Azure Course Take-aways
 
-Last updated: September 1, 2020
+Last updated: January 15, 2021
 
 ## Intro
 
@@ -19,10 +19,6 @@ This is a set of information I discuss with classes as part of my "end of class"
 * Most Azure course [labs](https://aka.ms/MicrosoftLearningGitHub) are on GitHub.
 * [Microsoft Hands-on Labs](https://aka.ms/MicrosoftHOL) is a collection of hosted VMs for lots of different lab scenarios, both Azure and not.
 * [Azure Courses on EdX](https://aka.ms/AzureEdX) is another source of self-paced online learning, but is closer to traditional timing than the shorter-form content on Microsoft Learn.
-* Microsoft has sponsored several courses on Pluralsight
-  * [Microsoft Azure Developer](https://aka.ms/PluralsightAzureDeveloper)
-  * [Microsoft Azure Solution Architect](https://aka.ms/PluralsightAzureArchitect)
-  * [Microsoft Azure Administrator](https://aka.ms/PluralsightAzureAdministrator)
 * A summary presentation of all [Microsoft Training and Certifications](https://aka.ms/TrainCertSummary) is available.
 * In many classes, especially the developer-related ones, there's been a lot of interest in learning Python.  Christopher Harrison and Susan Ibach have done a set of great tutorial videos:
   * [Learn To Program with Python](https://aka.ms/IntroToProgramming) (14 videos)
