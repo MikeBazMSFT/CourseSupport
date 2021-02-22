@@ -1,6 +1,6 @@
 # Azure Course Take-aways
 
-Last updated: January 15, 2021
+Last updated: February 22, 2021
 
 ## Intro
 
@@ -35,6 +35,7 @@ This is a set of information I discuss with classes as part of my "end of class"
   * [AZ-304](https://aka.ms/TMAz304)
   * [AZ-500](https://aka.ms/TMAz500)
   * [AZ-900](https://aka.ms/TMAz900)
+  * [AZ-140](https://aka.ms/TMAz140)
 
 * Other Study Guides:
   * [AZ-900](https://aka.ms/attaz900guide) by the ATT team
