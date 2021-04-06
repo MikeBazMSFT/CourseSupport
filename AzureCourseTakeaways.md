@@ -17,12 +17,9 @@ This is a set of information I discuss with classes as part of my "end of class"
   * The [Microsoft Docs](https://aka.ms/Docs) is the official documentation site for all Microsoft products.
 * [Skillpipe e-Book access](https://www.skillpipe.com) - available "forever" and updated on a regular basis for the life of the course.
 * Most Azure course [labs](https://aka.ms/MicrosoftLearningGitHub) are on GitHub.
-* [Microsoft Hands-on Labs](https://aka.ms/MicrosoftHOL) is a collection of hosted VMs for lots of different lab scenarios, both Azure and not.
 * [Azure Courses on EdX](https://aka.ms/AzureEdX) is another source of self-paced online learning, but is closer to traditional timing than the shorter-form content on Microsoft Learn.
 * A summary presentation of all [Microsoft Training and Certifications](https://aka.ms/TrainCertSummary) is available.
-* In many classes, especially the developer-related ones, there's been a lot of interest in learning Python.  Christopher Harrison and Susan Ibach have done a set of great tutorial videos:
-  * [Learn To Program with Python](https://aka.ms/IntroToProgramming) (14 videos)
-  * [Python for Beginners](https://aka.ms/PfB) (44 videos!)
+* In many classes, especially the developer-related ones, there's been a lot of interest in learning Python.  Christopher Harrison and Susan Ibach have done a set of great tutorial videos: [Python for Beginners](https://aka.ms/PfB) (44 videos!)
 * The role-based classes generally require an entry level of knowledge around networking such as IP addressing.  Microsoft Learn has a [Fundamentals of computer networking](https://aka.ms/NetworkFundamentals) module that can help with that.
 
 ## Study Guides
