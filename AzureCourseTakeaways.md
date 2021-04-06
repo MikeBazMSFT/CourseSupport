@@ -36,6 +36,7 @@ This is a set of information I discuss with classes as part of my "end of class"
   * [AZ-500](https://aka.ms/TMAz500)
   * [AZ-900](https://aka.ms/TMAz900)
   * [AZ-140](https://aka.ms/TMAz140)
+  * [SC-900](https://aka.ms/TMSc900)
 
 * Other Study Guides:
   * [AZ-900](https://aka.ms/attaz900guide) by the ATT team
