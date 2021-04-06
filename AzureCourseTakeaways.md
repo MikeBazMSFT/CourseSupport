@@ -1,6 +1,6 @@
 # Azure Course Take-aways
 
-Last updated: March 10, 2021
+Last updated: April 6, 2021
 
 ## Intro
 
