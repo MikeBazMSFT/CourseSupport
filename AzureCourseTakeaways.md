@@ -44,6 +44,7 @@ This is a set of information I discuss with classes as part of my "end of class"
 
 ## Exam Tips
 
+Helpful tips for taking an exam at home: https://aka.ms/home-exam
 * Details on different question types including videos for them are at the top-level [Microsoft Certification Exams](https://aka.ms/QuestionTypes) web site.  There's also a [FAQ](https://aka.ms/CertificationFAQ) there with a lot of common questions and answers.
 * Exams are "closed book."  In the case of an exam with a practical component, you may have inline help in the CLI and the like, but that's it.  You will not have general web access, Skillpipe access, and so on.
 * A [blog post](https://aka.ms/homeexam) about the home testing experience was posted by one of Microsoft's Cloud Advocates, Thomas Maurer.
