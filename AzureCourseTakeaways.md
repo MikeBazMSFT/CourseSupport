@@ -41,6 +41,7 @@ This is a set of information I discuss with classes as part of my "end of class"
   * [AZ-104](https://charbelnemnom.com/2020/06/passed-az-104-exam-microsoft-certified-azure-administrator-associate/) by Charbel Nemnom, MVP/MCT
   * [DP-900](https://gregorsuttie.com/2020/06/09/dp-900-microsoft-azure-data-fundamentals-exam-study-guide/) by Gregor Suttie, MVP
   * [AZ-140 Video Study Guide](https://www.youtube.com/playlist?list=PL-V4YVm6AmwW1DBM25pwWYd1Lxs84ILZT) by Dean Cefola, Azure FastTrack
+  * [AZ-800, including video](https://techcommunity.microsoft.com/t5/itops-talk-blog/az-800-study-guide-administering-windows-server-hybrid-core/ba-p/2736091)AZ-800 Study Guide: Administering Windows Server Hybrid Core Infrastructure by Orin Thomash, Principal Cloud Advocate
 
 ## Exam Tips
 
